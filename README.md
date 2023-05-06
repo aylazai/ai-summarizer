@@ -10,7 +10,6 @@ The deployed application can be found here: https://jade-travesseiro-76dd55.netl
 - [Usage](#usage)
 - [API](#api)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -50,7 +49,3 @@ If you would like to contribute to the project, please follow these steps:
 5. Submit a pull request
 
 Please make sure to write clean code and follow best practices when contributing.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
